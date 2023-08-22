@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.avi
+*.mp4
 # C extensions
 *.so
 
@@ -122,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+centralized/sipp/results/
+*.gif
